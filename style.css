@@ -19,20 +19,20 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #709CD1;
+	color:  #D3D3D3;
 }
 
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #1C2541;
+	background: #2F4454;
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #5BC0BE;
-	background: #3A506B;
+	background: #008080;
 }
 
 #name h1 {
@@ -123,8 +123,8 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
+	font-family: 'Garamond', Helvetica, Arial, sans-serif;
+	font-style: bold;
 	font-size: 1.5em;
 	color: #6FFFE9;
 }
