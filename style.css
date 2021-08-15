@@ -31,8 +31,8 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
-	background: #008080;
+	border-bottom: 2px solid #DAA520;
+	background: #2F4454;
 }
 
 #name h1 {
@@ -100,7 +100,7 @@ p {
 
 
 section {
-	border-top: 1px solid #5BC0BE;
+	border-top: 1px solid #DAA520;
 	padding: 20px 0 0;
 }
 
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Garamond', Helvetica, Arial, sans-serif;
 	font-style: bold;
 	font-size: 1.5em;
-	color: #6FFFE9;
+	color:	#DAA520;
 }
 
 .sectionTitle img {
